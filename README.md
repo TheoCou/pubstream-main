@@ -1,3 +1,3 @@
 # PUBSTREAMING
 
-lien pour le site [PUBSTREAMING](https://github.com/TheoCou/pubstream-main.git)
+lien pour le site [PUBSTREAMING](https://theocou.github.io/PUBSTREAMING-main/index.html)
